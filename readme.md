@@ -1,4 +1,4 @@
-##About
+# The Pragmatic programmer Checklists
 
-This repository contains the famous The Pragmatic Programmer Checklists in issues format. I feel it is a valid approach for me to take those checklists as Issues and close them and improve as a developer.
-
+This repo contains the checklists from "The Pragmatic Programmer" book. It is implemented in form 
+of github issues. 
